@@ -15,5 +15,6 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * Day 3 - https://adventofcode.com/2019/day/3 **
 * Day 4 - https://adventofcode.com/2019/day/4 **
 * Day 5 - https://adventofcode.com/2019/day/5 **
+* Day 6 - https://adventofcode.com/2019/day/6 **
 
 
