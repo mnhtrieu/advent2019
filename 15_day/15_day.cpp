@@ -124,7 +124,7 @@ tuple<map<pair<ll,ll>,char>,ll,ll> opt(map<ll,ll> & m){
         board[{x,y}] = '.';
         // cout << "FINAL" << endl;
         x = tmpX; y = tmpY;
-        if(steps++ == 20) break; // bruteforce the whole map
+        if(steps++ == 1) break; // bruteforce the whole map
         nodes[{x,y}].from = direction;
         // break;
       }
