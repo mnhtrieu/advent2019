@@ -34,4 +34,5 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 22](https://github.com/mnhtrieu/advent2019/tree/master/22_day) - Slam Shuffle | PART 1: `5472` | PART 2: `64586600795606` 
 * [Day 23](https://github.com/mnhtrieu/advent2019/tree/master/23_day) - Category Six | PART 1: `17283` | PART 2: `11319` 
 * [Day 24](https://github.com/mnhtrieu/advent2019/tree/master/24_day) - Planet of Discord | PART 1: `24662545` | PART 2: `2063` 
+*  [Day 25](https://github.com/mnhtrieu/advent2019/tree/master/25_day) - Cryostasis | PART 1: `4206594` 
 
