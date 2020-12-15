@@ -10,15 +10,15 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 
 ## Puzzles
 
-* [Day 1](https://github.com/mnhtrieu/advent2019/tree/master/1_day) - The Tyranny of the Rocket Equation | PART 1: `3442987` | PART 2: `5161601`
-* [Day 2](https://github.com/mnhtrieu/advent2019/tree/master/2_day) - 1202 Program Alarm | PART 1: `2782414` | PART 2: `9820`
-* [Day 3](https://github.com/mnhtrieu/advent2019/tree/master/3_day) - Crossed Wires | PART 1: `1285` | PART 2: `14228`
-* [Day 4](https://github.com/mnhtrieu/advent2019/tree/master/4_day) - Secure Container | PART 1: `1063` | PART 2: `686`
-* [Day 5](https://github.com/mnhtrieu/advent2019/tree/master/5_day) - Sunny with a Chance of Asteroids | PART 1: `5346030` | PART 2: `513116` 
-* [Day 6](https://github.com/mnhtrieu/advent2019/tree/master/6_day) - Universal Orbit Map | PART 1: `453028` | PART 2: `562` 
-* [Day 7](https://github.com/mnhtrieu/advent2019/tree/master/7_day) - Amplification Circuit | PART 1: `17440` | PART 2: `27561242` 
-* [Day 8](https://github.com/mnhtrieu/advent2019/tree/master/8_day) - Space Image Format | PART 1: `2760` | PART 2: `AGUEB` 
-* [Day 9](https://github.com/mnhtrieu/advent2019/tree/master/9_day) - Sensor Boost | PART 1: `3235019597` | PART 2: `80274` 
+* [Day 1](https://github.com/mnhtrieu/advent2019/tree/master/01_day) - The Tyranny of the Rocket Equation | PART 1: `3442987` | PART 2: `5161601`
+* [Day 2](https://github.com/mnhtrieu/advent2019/tree/master/02_day) - 1202 Program Alarm | PART 1: `2782414` | PART 2: `9820`
+* [Day 3](https://github.com/mnhtrieu/advent2019/tree/master/03_day) - Crossed Wires | PART 1: `1285` | PART 2: `14228`
+* [Day 4](https://github.com/mnhtrieu/advent2019/tree/master/04_day) - Secure Container | PART 1: `1063` | PART 2: `686`
+* [Day 5](https://github.com/mnhtrieu/advent2019/tree/master/05_day) - Sunny with a Chance of Asteroids | PART 1: `5346030` | PART 2: `513116` 
+* [Day 6](https://github.com/mnhtrieu/advent2019/tree/master/06_day) - Universal Orbit Map | PART 1: `453028` | PART 2: `562` 
+* [Day 7](https://github.com/mnhtrieu/advent2019/tree/master/07_day) - Amplification Circuit | PART 1: `17440` | PART 2: `27561242` 
+* [Day 8](https://github.com/mnhtrieu/advent2019/tree/master/08_day) - Space Image Format | PART 1: `2760` | PART 2: `AGUEB` 
+* [Day 9](https://github.com/mnhtrieu/advent2019/tree/master/09_day) - Sensor Boost | PART 1: `3235019597` | PART 2: `80274` 
 * [Day 10](https://github.com/mnhtrieu/advent2019/tree/master/10_day) - Monitoring Station | PART 1: `319` | PART 2: `517` 
 * [Day 11](https://github.com/mnhtrieu/advent2019/tree/master/11_day) - Space Police | PART 1: `2088` | PART 2: `URCAFLCP` 
 * [Day 12](https://github.com/mnhtrieu/advent2019/tree/master/12_day) - The N-Body Problem | PART 1: `7636` | PART 2: `281691380235984` 
